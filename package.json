@@ -9,6 +9,7 @@
   "author": "eoskin@crystalnix.com",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^2.2.0",
     "dictionary-en-us": "^2.0.0",
     "no-cliches": "github:dunckr/no-cliches",
     "retext": "^5.0.0",
@@ -26,6 +27,7 @@
     "retext-simplify": "^4.1.1",
     "retext-spell": "^2.3.1",
     "retext-usage": "^0.5.0",
+    "unist-util-inspect": "^4.1.1",
     "vfile-reporter": "^4.0.0"
   }
 }
