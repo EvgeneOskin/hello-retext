@@ -1,0 +1,16 @@
+{
+  "name": "hello-retext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eoskin@crystalnix.com",
+  "license": "MIT",
+  "dependencies": {
+    "retext": "^5.0.0",
+    "retext-equality": "^3.2.0",
+    "retext-simplify": "^4.1.1"
+  }
+}
